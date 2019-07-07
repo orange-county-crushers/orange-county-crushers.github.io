@@ -19,7 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>8U</h3>
 				</header>
-				<p>Head Coach: Patrick Currin</p>
+				<p>Head Coach: <a href="mailto:phcurrin5@yahoo.com">Patrick Currin</a></p>
 				<ul class="actions">
 					<li><a href="8u.html" class="button">Learn more</a></li>
 				</ul>
@@ -35,7 +35,7 @@ nav-menu: true
 				<header class="major">
 					<h3>9U</h3>
 				</header>
-				<p>Head Coach: </p>
+                                <p>Head Coach: If interested contact <a href="mailto:bstaats@gmail.com">Brad Staats</a></p>
 				<ul class="actions">
 					<li><a href="9u.html" class="button">Learn more</a></li>
 				</ul>
@@ -51,7 +51,7 @@ nav-menu: true
 				<header class="major">
 					<h3>10U</h3>
 				</header>
-				<p>Head Coach: Tim Coynesmith</p>
+                                <p>Head Coach: If interested contact <a href="mailto:bstaats@gmail.com">Brad Staats</a></p>
 				<ul class="actions">
 					<li><a href="10u.html" class="button">Learn more</a></li>
 				</ul>
@@ -67,7 +67,7 @@ nav-menu: true
 				<header class="major">
 					<h3>11U</h3>
 				</header>
-				<p>Head Coach:</p>
+				<p>Head Coach: <a href="mailto:coynesmith@gmail.com">Tim Coynesmith</a></p>
 				<ul class="actions">
 					<li><a href="11u.html" class="button">Learn more</a></li>
 				</ul>
@@ -83,7 +83,7 @@ nav-menu: true
 				<header class="major">
 					<h3>12U</h3>
 				</header>
-				<p>Head Coach: </p>
+				<p>Head Coach: <a href="mailto:schuyler.jones@duke.edu">Schuyler Jones</a></p>
 				<ul class="actions">
 					<li><a href="12u.html" class="button">Learn more</a></li>
 				</ul>
@@ -99,7 +99,7 @@ nav-menu: true
 				<header class="major">
 					<h3>13U</h3>
 				</header>
-				<p>Head Coach: </p>
+				<p>Head Coach: <a href="mailto:jmiller@woodwardadvisors.com">Jim Miller</a></p>
 				<ul class="actions">
 					<li><a href="13u.html" class="button">Learn more</a></li>
 				</ul>
@@ -108,14 +108,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="14u.html" class="image">
-			<img src="assets/images/14u1.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/14u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>14U</h3>
 				</header>
-				<p>Head Coach: </p>
+				<p>Head Coach: <a href="mailto:mpr1020@yahoo.com">Mike Roberts</a></p>
 				<ul class="actions">
 					<li><a href="14u.html" class="button">Learn more</a></li>
 				</ul>
@@ -124,14 +124,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="15u.html" class="image">
-			<img src="assets/images/15u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/15u1.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>15U</h3>
 				</header>
-				<p>Head Coach: </p>
+				<p>Head Coach: <a href="mailto:jstillson10@gmail.com">John Stillson</a></p>
 				<ul class="actions">
 					<li><a href="15u.html" class="button">Learn more</a></li>
 				</ul>
@@ -147,9 +147,25 @@ nav-menu: true
 				<header class="major">
 					<h3>16U</h3>
 				</header>
-				<p>Head Coach: </p>
+				<p>Head Coach: <a href="mailto:jamesmparker93@gmail.com">Jay Parker</a></p>
 				<ul class="actions">
 					<li><a href="16u.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="17u.html" class="image">
+			<img src="assets/images/17u.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>17U</h3>
+				</header>
+				<p>Head Coach: <a href="mailto:mpr1020@yahoo.com">Mike Roberts</a></p>
+				<ul class="actions">
+					<li><a href="17u.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
