@@ -20,14 +20,14 @@ tiles-count: 5
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/OCCrushers
-github_url: https://github.com/orange-county-crushers
+github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com
+instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/kenvandine
+twitter_url: https://twitter.com/OCCrushers
 
 # build settings
 markdown: kramdown
