@@ -10,10 +10,20 @@ nav-menu: true
 
 <div class="content">
 <div class="inner">
+
+<header class="major">
+Fall 2019/Spring 2020 Tryouts
+</header>
+<table border="1" summary="Upcoming tryouts">
+<tr><th>Date</th><th>Time</th><th>Teams</th><th>Location</th></tr>
+<tr><td>July 17th</td><td>6PM</td><td>10U and 11U</td><td><a target="_blank" href="https://goo.gl/maps/Mp1waqudKpzbZAk58">Cedar Falls Park Field 1</a></td></tr>
+<tr><td>July 26th</td><td>TBD</td><td>12U</td><td>TBD</td></tr>
+<tr><td>August 10th</td><td>TBD</td><td>10U, 11U and 12U</td><td>TBD</td></tr>
+</table>
+
 <header class="major">
 Fall 2019/Spring 2020 Head Coaches
 </header>
-
 <ul>
 <li>9U/10U If interested contact bstaats@gmail.com</li>
 <li>11U Tim Coynesmith     <a href="mailto:coynesmith@gmail.com">coynesmith@gmail.com</a></li>
