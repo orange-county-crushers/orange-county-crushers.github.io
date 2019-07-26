@@ -11,24 +11,6 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="8u.html" class="image">
-			<img src="assets/images/8u.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>8U</h3>
-				</header>
-				<p>Head Coach: <a href="mailto:phcurrin5@yahoo.com">Patrick Currin</a></p>
-                                <!--
-				<ul class="actions">
-					<li><a href="8u.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
-			</div>
-		</div>
-	</section>
-	<section>
 		<a href="9u.html" class="image">
 			<img src="assets/images/9u.jpg" alt="" data-position="top center" />
 		</a>
