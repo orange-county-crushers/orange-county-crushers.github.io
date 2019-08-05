@@ -91,7 +91,7 @@ nav-menu: true
 				<header class="major">
 					<h3>13U</h3>
 				</header>
-				<p>Head Coach: <a href="mailto:jmiller@woodwardadvisors.com">Jim Miller</a></p>
+				<p>Head Coach: <a href="mailto:sharward73@gmail.com">Shannon Harward</a></p>
                                 <!-- FIXME
 				<ul class="actions">
 					<li><a href="13u.html" class="button">Learn more</a></li>
