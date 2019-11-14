@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos
+title: Tryouts
 description: Fall Tryouts
 nav-menu: true
 ---
@@ -12,16 +12,11 @@ nav-menu: true
 <div class="inner">
 
 <header class="major">
-Fall 2019/Spring 2020 Tryouts
+Spring 2020 Tryouts
 </header>
-<table border="1" summary="Upcoming tryouts">
-<tr><th>Date</th><th>Time</th><th>Teams</th><th>Location</th><th>Event Details</th></tr>
-<tr><td>July 17th</td><td>6PM</td><td>10U and 11U</td><td><a target="_blank" href="https://goo.gl/maps/Mp1waqudKpzbZAk58">Cedar Falls Park Field 1</a></td><td><a target="_blank" class="icon alt fa-facebook" href="https://www.facebook.com/events/628721137863069/"><span class="label">Facebook</span></a></td></tr>
-<tr><td>July 26th</td><td>6PM</td><td>10U and 11U</td><td><a target="_blank" href="https://goo.gl/maps/qXiQJsRnFWWXumu17">White Cross Recreation Center</a></td><td><a target="_blank" class="icon alt fa-facebook" href="https://www.facebook.com/events/1310553869121972/"><span class="label">Facebook</span></a></td></tr>
-<tr><td>August 10th</td><td>9AM - 10:30AM</td><td>9U</td><td><a target="_blank" href="https://goo.gl/maps/qXiQJsRnFWWXumu17">White Cross Recreation Center</a></td><td><a target="_blank" class="icon alt fa-facebook" href="https://www.facebook.com/events/431372297463352/"><span class="label">Facebook</span></a></td><td></td></tr>
-<tr><td>August 10th</td><td>10:30AM - 12PM</td><td>10U and 11U</td><td><a target="_blank" href="https://goo.gl/maps/qXiQJsRnFWWXumu17">White Cross Recreation Center</a></td><td><a target="_blank" class="icon alt fa-facebook" href="https://www.facebook.com/events/414945809229219/"><span class="label">Facebook</span></a></td><td></td></tr>
-<tr><td>August 10th</td><td>12PM - 1:30PM</td><td>12U and 13U</td><td><a target="_blank" href="https://goo.gl/maps/qXiQJsRnFWWXumu17">White Cross Recreation Center</a></td><td><a target="_blank" class="icon alt fa-facebook" href="https://www.facebook.com/events/393726264591532/"><span class="label">Facebook</span></a></td><td></td></tr>
-</table>
+<p>
+OC Crushers 14U D2 are looking to add several players to help transition to D1. Tryouts are Saturday November 23, 2019 at 1-2:30pm at Smith Middle School Baseball Field. Our indoor backup location in case of rain or cold is Crossfit Homeward in University Mall, Chapel Hill. If you'd like to attend please contact head coach Mike Roberts (email <a href="mailto:mpr1020@yahoo.com">mpr1020@yahoo.com</a>, text 919-943-7722) to register.
+</p>
 
 <header class="major">
 Fall 2019/Spring 2020 Head Coaches
