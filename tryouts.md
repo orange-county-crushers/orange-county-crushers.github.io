@@ -26,7 +26,7 @@ Spring 2020 Tryouts
 Fall 2019/Spring 2020 Head Coaches
 </header>
 <ul>
-<li>9U/10U If interested contact <a href="mailto:bstaats@gmail.com">bstaats@gmail.com</a></li>
+<li>9U Patrick Currin <a href="mailto:phcurrin5@yahoo.com">phcurrin5@yahoo.com</a></li>
 <li>11U Tim Coynesmith     <a href="mailto:coynesmith@gmail.com">coynesmith@gmail.com</a></li>
 <li>12U Schyuler Jones     <a href="mailto:schuyler.jones@duke.edu">schuyler.jones@duke.edu</a></li>
 <li>13U Shannon Harward    <a href="mailto:sharward73@gmail.com">sharward73@gmail.com</a></li>

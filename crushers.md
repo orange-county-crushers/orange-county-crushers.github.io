@@ -19,7 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>9U</h3>
 				</header>
-                                <p>Head Coach: If interested contact <a href="mailto:bstaats@gmail.com">Brad Staats</a></p>
+				<p>Head Coach: <a href="mailto:phcurrin5@yahoo.com">Patrick Currin</a></p>
                                 <!--
 				<ul class="actions">
 					<li><a href="9u.html" class="button">Learn more</a></li>
