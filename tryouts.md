@@ -15,7 +15,7 @@ nav-menu: true
 Spring 2020 Tryouts
 </header>
 <p>
-<strong>OC Crushers 14U</strong> D2 are looking to add several players to help transition to D1. Tryouts are Saturday November 23, 2019 from 1-2:30pm at Smith Middle School Baseball Field. Our indoor backup location in case of rain or cold is Crossfit Homeward in University Mall, Chapel Hill. If you'd like to attend please contact head coach Mike Roberts (email <a href="mailto:mpr1020@yahoo.com">mpr1020@yahoo.com</a>, text 919-943-7722) to register.
+<strong>OC Crushers 14U</strong> D2 team are looking to add several players to help transition to D1. Tryouts are Saturday November 23, 2019 from 1-2:30pm at Smith Middle School Baseball Field. Our indoor backup location in case of rain or cold is Crossfit Homeward in University Mall, Chapel Hill. If you'd like to attend please contact head coach Mike Roberts (email <a href="mailto:mpr1020@yahoo.com">mpr1020@yahoo.com</a>, text 919-943-7722) to register.
 </p>
 <br />
 <p>
