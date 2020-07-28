@@ -8,6 +8,4 @@ author: null
 show_tile: false
 ---
 
-Orange County Crushers is a competitive youth travel baseball team based in Chapel Hill, NC and the surrounding area. Crushers teams range from 9U-16U yrs old.
-
-The mission of our program is to develop young baseball players with good skills that will continue to develop to a level of excellence that will be passed on to our local high school programs. We will develop players not only on the field but also instill a sense of responsibility and pride in all players who participate. We will insist on good sportsmanship and proper behavior. Most importantly, we want EVERYONE to have fun and enjoy their experience with our program. This includes players, coaches, parents and fans. 
+The Orange County Crushers is a competitive youth travel baseball organization based in Chapel Hill, NC with teams from 8u-17u.  We are a 501c3 organization that draws players from Orange, Durham, Alamance, and Chatham counties. The Crushers utilize a professional coach, former professional baseball player Patrick Currin and our teams practice 2-3 days a week.  We are dedicated to teaching sound baseball fundamentals and preparing players for the next level, be that middle school, high school, or college baseball.
