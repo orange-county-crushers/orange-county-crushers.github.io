@@ -12,28 +12,24 @@ nav-menu: true
 <div class="inner">
 
 <header class="major">
-Spring 2020 Tryouts
+Fall 2020 Tryouts
 </header>
 <p>
-<strong>OC Crushers 14U</strong> D2 team are looking to add several players to help transition to D1. Tryouts are Saturday November 23, 2019 from 1-2:30pm at Smith Middle School Baseball Field. Our indoor backup location in case of rain or cold is Crossfit Homeward in University Mall, Chapel Hill. If you'd like to attend please contact head coach Mike Roberts (email <a href="mailto:mpr1020@yahoo.com">mpr1020@yahoo.com</a>, text 919-943-7722) to register.
-</p>
-<br />
-<p>
-<strong>OC Crushers 9U</strong> team will be holding tryouts for the Spring 2020 season on Sunday November 24, 2019 from 1-3PM at White Cross <a href="https://goo.gl/maps/DsvAf3FBFhUPTN7k9">1800 White Cross Rd</a>.  For more information please contact Coach Patrick Curring at <a href="mailto:phcurrin5@yahoo.com">phcurrin5@yahoo.com</a>
+<strong>OC Crushers 11U</strong> team will be holding tryouts for the Fall 2020 season on Friday August 28, 2020 from 5-6:30PM at White Cross <a href="https://goo.gl/maps/DsvAf3FBFhUPTN7k9">1800 White Cross Rd</a>.  For more information please contact Coach Tim Coynesmith at <a href="mailto:coynesmith@gmail.com">coynesmith@gmail.com</a>
 </p>
 
 <header class="major">
-Fall 2019/Spring 2020 Head Coaches
+Fall 2020/Spring 2021 Head Coaches
 </header>
 <ul>
-<li>9U Patrick Currin <a href="mailto:phcurrin5@yahoo.com">phcurrin5@yahoo.com</a></li>
-<li>11U Tim Coynesmith     <a href="mailto:coynesmith@gmail.com">coynesmith@gmail.com</a></li>
-<li>12U Schyuler Jones     <a href="mailto:schuyler.jones@duke.edu">schuyler.jones@duke.edu</a></li>
-<li>13U Shannon Harward    <a href="mailto:sharward73@gmail.com">sharward73@gmail.com</a></li>
-<li>14U Mike Roberts     <a href="mailto:mpr1020@yahoo.com">mpr1020@yahoo.com</a></li>
-<li>15U John Stillson     <a href="mailto:jstillson10@gmail.com">jstillson10@gmail.com</a></li>
-<li>16U Jay Parker     <a href="mailto:jamesmparker93@gmail.com">jamesmparker93@gmail.com</a></li>
-<li>17U Mike Roberts     <a href="mailto:mpr1020@yahoo.com">mpr1020@yahoo.com</a></li>
+<li>10U Patrick Currin <a href="mailto:phcurrin5@yahoo.com">phcurrin5@yahoo.com</a></li>
+<li>11U TBD - please contact Patrick Currin <a href="mailto:phcurrin5@yahoo.com">phcurrin5@yahoo.com</a></li>
+<li>12U Tim Coynesmith     <a href="mailto:coynesmith@gmail.com">coynesmith@gmail.com</a></li>
+<li>13U Schyuler Jones     <a href="mailto:schuyler.jones@duke.edu">schuyler.jones@duke.edu</a></li>
+<li>14U Shannon Harward    <a href="mailto:sharward73@gmail.com">sharward73@gmail.com</a></li>
+<li>15U Mike Roberts     <a href="mailto:mpr1020@yahoo.com">mpr1020@yahoo.com</a></li>
+<li>16U John Stillson     <a href="mailto:jstillson10@gmail.com">jstillson10@gmail.com</a></li>
+<li>17U Jay Parker     <a href="mailto:jamesmparker93@gmail.com">jamesmparker93@gmail.com</a></li>
 </ul>
 
 <p><strong>What Age Group Is My Child This Coming Fall?</strong></p>
