@@ -17,7 +17,7 @@ nav-menu: true
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>10U</h3>
+                                        <h3>9U</h3>
                                 </header>
                                 <p>Head Coach: <a href="mailto:pjholmes99@gmail.com">Phil Holmes</a></p>
                                 <!--
@@ -28,7 +28,6 @@ nav-menu: true
                         </div>
                 </div>
         </section>
-
 	<section>
 		<a href="10u.html" class="image">
 			<img src="assets/images/10u.jpg" alt="" data-position="top center" />
