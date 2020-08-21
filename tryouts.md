@@ -23,7 +23,7 @@ Fall 2020/Spring 2021 Head Coaches
 </header>
 <ul>
 <li>9U Phil Holmes <a href="mailto:pjholmes99@gmail.com">pjholmes99@gmail.com</a></li>
-<li>10U Patrick Currin <a href="mailto:phcurrin5@yahoo.com">phcurrin5@yahoo.com</a></li>
+<li>10U Jason Cope <a href="mailto:jason@imagequalitylabs.com">jason@imagequalitylabs.com</a></li>
 <li>11U TBD - please contact Patrick Currin <a href="mailto:phcurrin5@yahoo.com">phcurrin5@yahoo.com</a></li>
 <li>12U Tim Coynesmith     <a href="mailto:coynesmith@gmail.com">coynesmith@gmail.com</a></li>
 <li>13U Schyuler Jones     <a href="mailto:schuyler.jones@duke.edu">schuyler.jones@duke.edu</a></li>

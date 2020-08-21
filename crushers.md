@@ -37,7 +37,7 @@ nav-menu: true
 				<header class="major">
 					<h3>10U</h3>
 				</header>
-				<p>Head Coach: <a href="mailto:phcurrin5@yahoo.com">Patrick Currin</a></p>
+				<p>Head Coach: <a href="mailto:jason@imagequalitylabs.com">Jason Cope</a></p>
                                 <!--
 				<ul class="actions">
 					<li><a href="10u.html" class="button">Learn more</a></li>
