@@ -11,13 +11,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
         <section>
-                <!-- FIXME
                 <a href="9u.html" class="image">
-                -->
                         <img src="assets/images/9u.jpg" alt="" data-position="top center" />
-                <!-- FIXME
                 </a>
-                -->
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
@@ -33,13 +29,9 @@ nav-menu: true
                 </div>
         </section>
 	<section>
-                <!-- FIXME
 		<a href="10u.html" class="image">
-                -->
 			<img src="assets/images/10u.jpg" alt="" data-position="top center" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -55,19 +47,14 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-                <!-- FIXME
 		<a href="11u.html" class="image">
-                -->
 			<img src="assets/images/11u.jpg" alt="" data-position="25% 25%" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>11U</h3>
 				</header>
-                                <p>Head Coach: If interested contact <a href="mailto:bstaats@gmail.com">Brad Staats</a></p>
 				<p>Head Coach: <a href="mailto:stowe4077@gmail.com">Matt Stowe</a></p>
                                 <!-- FIXME
 				<ul class="actions">
@@ -78,13 +65,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-                <!-- FIXME
 		<a href="12u.html" class="image">
-                -->
 			<img src="assets/images/12u.jpg" alt="" data-position="25% 25%" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -100,13 +83,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-                <!-- FIXME
 		<a href="13u.html" class="image">
-                -->
 			<img src="assets/images/13u.jpg" alt="" data-position="25% 25%" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -122,13 +101,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-                <!-- FIXME
 		<a href="14u.html" class="image">
-                -->
 			<img src="assets/images/14u.jpg" alt="" data-position="25% 25%" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -144,13 +119,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-                <!-- FIXME
 		<a href="15u.html" class="image">
-                -->
 			<img src="assets/images/15u.jpg" alt="" data-position="25% 25%" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -166,13 +137,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-                <!-- FIXME
 		<a href="16u.html" class="image">
-                -->
 			<img src="assets/images/16u1.jpg" alt="" data-position="25% 25%" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -188,13 +155,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-                <!-- FIXME
 		<a href="17u.html" class="image">
-                -->
 			<img src="assets/images/17u.jpg" alt="" data-position="25% 25%" />
-                <!-- FIXME
 		</a>
-                -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
