@@ -11,7 +11,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
         <section>
-                <a href="9u.html" class="image">
+                <a href="#" class="image">
                         <img src="assets/images/9u.jpg" alt="" data-position="top center" />
                 </a>
                 <div class="content">
@@ -29,7 +29,7 @@ nav-menu: true
                 </div>
         </section>
 	<section>
-		<a href="10u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/10u.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -47,7 +47,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="11u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/11u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -65,7 +65,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="12u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/12u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -83,7 +83,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="13u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/13u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -101,7 +101,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="14u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/14u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -119,7 +119,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="15u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/15u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -137,7 +137,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="16u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/16u1.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -155,7 +155,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="17u.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/17u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
