@@ -11,9 +11,6 @@ nav-menu: true
 <div class="content">
 <div class="inner">
 
-<header class="major">
-Fall 2021 Tryouts
-</header>
 <p>
 If interested in learning more about a team and availability, please contact the coach.
 </p>
