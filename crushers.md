@@ -66,7 +66,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/12u1.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/12u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -84,7 +84,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/13u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/13u1.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
