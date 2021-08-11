@@ -15,7 +15,7 @@ nav-menu: true
 Fall 2021 Tryouts
 </header>
 <p>
-<strong>For information on OC Crushers</strong> tryouts, please contact the appropriate coach listed below.
+If interested in learning more about a team and availability, please contact the coach.
 </p>
 
 <header class="major">
