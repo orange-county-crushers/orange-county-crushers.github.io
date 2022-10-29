@@ -12,7 +12,7 @@ nav-menu: true
 <div class="inner">
 
 <p>
-If interested in learning more about a team and availability, please contact the coach.
+If interested in learning more about a team and availability, please contact the coach.  Fill out and submit the <a target="_blank" href="https://tinyurl.com/keepcrushin">OC Crushers Player Interest Form</a>.
 </p>
 
 <header class="major">
