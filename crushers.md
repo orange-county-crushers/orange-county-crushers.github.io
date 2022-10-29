@@ -125,7 +125,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>14U</h3>
+					<h3>14U - Orange</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:coynesmith@gmail.com">Tim Coynesmith</a></p>
                                 <!-- FIXME
