@@ -4,6 +4,20 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+        <div class="inner">
+            <ul class="icons">
+                {% if site.twitter_url %}
+                <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                {% endif %}
+                {% if site.facebook_url %}
+                <li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                {% endif %}
+                {% if site.instagram_url %}
+                <li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                {% endif %}
+	    </ul>
+	</div>
+
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
