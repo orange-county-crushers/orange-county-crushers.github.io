@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Teams
-description: "Orange County Crushers have teams ranging from 8U to 16U"
+description: "Orange County Crushers have teams ranging from 9U to 17U"
 nav-menu: true
 ---
 
@@ -10,6 +10,24 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/9u.jpg" alt="" data-position="top center" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>9U</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:jack.kuritzky@gmail.com">Jack Kuritzky</a></p>
+                                <!--
+                                <ul class="actions">
+                                        <li><a href="9u.html" class="button">Learn more</a></li>
+                                </ul>
+                                -->
+                        </div>
+                </div>
+        </section>
         <section>
                 <a href="#" class="image">
                         <img src="assets/images/10u.jpg" alt="" data-position="top center" />
@@ -48,12 +66,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/12u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/12u-orange.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>12U</h3>
+					<h3>12U - Orange</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:jason@imagequalitylabs.com">Jason Cope</a></p>
                                 <!-- FIXME
@@ -64,6 +82,24 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/12u-black.jpg" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>12U - Black</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:ncsugerky@yahoo.com">Joe Gerding</a></p>
+                                <!-- FIXME
+                                <ul class="actions">
+                                        <li><a href="12u.html" class="button">Learn more</a></li>
+                                </ul>
+                                -->
+                        </div>
+                </div>
+        </section>
 	<section>
 		<a href="#" class="image">
 			<img src="assets/images/13u.jpg" alt="" data-position="25% 25%" />
@@ -84,7 +120,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/14u1.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/14u-orange.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -100,6 +136,24 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/14u-black.jpg" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>14U - Black</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:rduttonnc@gmail.com">Richard Dutton</a></p>
+                                <!-- FIXME
+                                <ul class="actions">
+                                        <li><a href="14u.html" class="button">Learn more</a></li>
+                                </ul>
+                                -->
+                        </div>
+                </div>
+        </section>
 	<section>
 		<a href="#" class="image">
 			<img src="assets/images/15u1.jpg" alt="" data-position="25% 25%" />
