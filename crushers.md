@@ -76,7 +76,7 @@ nav-menu: true
 				<p>Head Coach: <a href="mailto:jason@imagequalitylabs.com">Jason Cope</a></p>
                                 <!-- FIXME
 				<ul class="actions">
-					<li><a href="12u.html" class="button">Learn more</a></li>
+					<li><a href="12u-orange.html" class="button">Learn more</a></li>
 				</ul>
                                 -->
 			</div>
@@ -94,7 +94,7 @@ nav-menu: true
                                 <p>Head Coach: <a href="mailto:ncsugerky@yahoo.com">Joe Gerding</a></p>
                                 <!-- FIXME
                                 <ul class="actions">
-                                        <li><a href="12u.html" class="button">Learn more</a></li>
+                                        <li><a href="12u-black.html" class="button">Learn more</a></li>
                                 </ul>
                                 -->
                         </div>
@@ -130,7 +130,7 @@ nav-menu: true
 				<p>Head Coach: <a href="mailto:coynesmith@gmail.com">Tim Coynesmith</a></p>
                                 <!-- FIXME
 				<ul class="actions">
-					<li><a href="14u.html" class="button">Learn more</a></li>
+					<li><a href="14u-orange.html" class="button">Learn more</a></li>
 				</ul>
                                 -->
 			</div>
@@ -148,7 +148,7 @@ nav-menu: true
                                 <p>Head Coach: <a href="mailto:rduttonnc@gmail.com">Richard Dutton</a></p>
                                 <!-- FIXME
                                 <ul class="actions">
-                                        <li><a href="14u.html" class="button">Learn more</a></li>
+                                        <li><a href="14u-black.html" class="button">Learn more</a></li>
                                 </ul>
                                 -->
                         </div>
