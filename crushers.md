@@ -12,12 +12,12 @@ nav-menu: true
 <section id="two" class="spotlights">
         <section>
                 <a href="#" class="image">
-                        <img src="assets/images/9u.jpg" alt="" data-position="top center" />
+                        <img src="assets/images/10u.jpg" alt="" data-position="top center" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>9U</h3>
+                                        <h3>10U</h3>
                                 </header>
                                 <p>Head Coach: <a href="mailto:jack.kuritzky@gmail.com">Jack Kuritzky</a></p>
                                 <!--
@@ -30,12 +30,12 @@ nav-menu: true
         </section>
         <section>
                 <a href="#" class="image">
-                        <img src="assets/images/10u.jpg" alt="" data-position="top center" />
+                        <img src="assets/images/11u.jpg" alt="" data-position="top center" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>10U</h3>
+                                        <h3>11U</h3>
                                 </header>
                                 <p>Head Coach: <a href="mailto:adevore@me.com">Adam DeVore</a></p>
                                 <!--
@@ -48,12 +48,12 @@ nav-menu: true
         </section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/11u.jpg" alt="" data-position="top center" />
+			<img src="assets/images/12u.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>11U</h3>
+					<h3>12U</h3>
 				</header>
                                 <p>Head Coach: <a href="mailto:pjholmes99@gmail.com">Phil Holmes</a></p>
                                 <!--
@@ -66,17 +66,17 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/12u-orange.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/13u-orange.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>12U - Orange</h3>
+					<h3>13U - Orange</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:jason@imagequalitylabs.com">Jason Cope</a></p>
                                 <!-- FIXME
 				<ul class="actions">
-					<li><a href="12u-orange.html" class="button">Learn more</a></li>
+					<li><a href="13u-orange.html" class="button">Learn more</a></li>
 				</ul>
                                 -->
 			</div>
@@ -84,17 +84,17 @@ nav-menu: true
 	</section>
         <section>
                 <a href="#" class="image">
-                        <img src="assets/images/12u-black.jpg" alt="" data-position="25% 25%" />
+                        <img src="assets/images/13u-black.jpg" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>12U - Black</h3>
+                                        <h3>13U - Black</h3>
                                 </header>
                                 <p>Head Coach: <a href="mailto:ncsugerky@yahoo.com">Joe Gerding</a></p>
                                 <!-- FIXME
                                 <ul class="actions">
-                                        <li><a href="12u-black.html" class="button">Learn more</a></li>
+                                        <li><a href="13u-black.html" class="button">Learn more</a></li>
                                 </ul>
                                 -->
                         </div>
@@ -102,12 +102,12 @@ nav-menu: true
         </section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/13u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/14u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>13U</h3>
+					<h3>14U</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:stowe4077@gmail.com">Matt Stowe</a></p>
                                 <!-- FIXME
@@ -120,12 +120,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/14u-orange.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/15u-orange.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>14U - Orange</h3>
+					<h3>15U - Orange</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:coynesmith@gmail.com">Tim Coynesmith</a></p>
                                 <!-- FIXME
@@ -138,12 +138,12 @@ nav-menu: true
 	</section>
         <section>
                 <a href="#" class="image">
-                        <img src="assets/images/14u-black.jpg" alt="" data-position="25% 25%" />
+                        <img src="assets/images/15u-black.jpg" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>14U - Black</h3>
+                                        <h3>15U - Black</h3>
                                 </header>
                                 <p>Head Coach: <a href="mailto:rduttonnc@gmail.com">Richard Dutton</a></p>
                                 <!-- FIXME
@@ -156,14 +156,14 @@ nav-menu: true
         </section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/15u1.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/16u1.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>15U</h3>
+					<h3>16U</h3>
 				</header>
-				<p>Head Coach: <a href="mailto:schuyler.jones@duke.edu">Schuyler Jones</a></p>
+				<p>Head Coach: <a href="mailto:ben_davis@unc.edu">Ben Davis</a></p>
                                 <!-- FIXME
 				<ul class="actions">
 					<li><a href="15u.html" class="button">Learn more</a></li>
@@ -174,12 +174,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/16u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/17u.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>16U</h3>
+					<h3>17U</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:sharward73@gmail.com">Shannon Harward</a></p>
                                 <!-- FIXME
@@ -192,35 +192,17 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/17u1.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>17U</h3>
-				</header>
-				<p>Head Coach: <a href="mailto:mpr1020@yahoo.com">Mike Roberts</a></p>
-                                <!-- FIXME
-				<ul class="actions">
-					<li><a href="17u.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image">
-			<img src="assets/images/18u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/18u1.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>18U</h3>
 				</header>
-				<p>Head Coach: <a href="mailto:jstillson10@gmail.com">John Stillson</a></p>
+				<p>Head Coach: <a href="mailto:mpr1020@yahoo.com">Mike Roberts</a></p>
                                 <!-- FIXME
 				<ul class="actions">
-					<li><a href="18u.html" class="button">Learn more</a></li>
+					<li><a href="17u.html" class="button">Learn more</a></li>
 				</ul>
                                 -->
 			</div>
