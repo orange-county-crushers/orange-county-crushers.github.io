@@ -12,6 +12,24 @@ nav-menu: true
 <section id="two" class="spotlights">
         <section>
                 <a href="#" class="image">
+                        <img src="assets/images/9u.jpg" alt="" data-position="top center" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>9U</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:greenunc@gmail.com">Dave Green</a></p>
+                                <!--
+                                <ul class="actions">
+                                        <li><a href="9u.html" class="button">Learn more</a></li>
+                                </ul>
+                                -->
+                        </div>
+                </div>
+        </section>
+        <section>
+                <a href="#" class="image">
                         <img src="assets/images/10u.jpg" alt="" data-position="top center" />
                 </a>
                 <div class="content">
