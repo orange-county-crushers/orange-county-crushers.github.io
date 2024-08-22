@@ -38,7 +38,7 @@ nav-menu: true
         </section>
         <section>
                 <a href="#" class="image">
-                        <img src="assets/images/10u.jpg" alt="" data-position="top center" />
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
                 </a>
                 <div class="content">
                         <div class="inner">
