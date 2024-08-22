@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Teams
-description: "Orange County Crushers have teams ranging from 9U to 17U"
+description: "Orange County Crushers have teams ranging from 9U to 18U"
 nav-menu: true
 ---
 
