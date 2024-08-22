@@ -12,19 +12,27 @@ nav-menu: true
 <section id="two" class="spotlights">
         <section>
                 <a href="#" class="image">
-                        <img src="assets/images/9u.jpg" alt="" data-position="top center" />
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>9U</h3>
+                                        <h3>9U - Orange</h3>
                                 </header>
-                                <p>Head Coach: <a href="mailto:greenunc@gmail.com">Dave Green</a></p>
-                                <!--
-                                <ul class="actions">
-                                        <li><a href="9u.html" class="button">Learn more</a></li>
-                                </ul>
-                                -->
+                                <p>Head Coach: <a href="mailto:douglas.strasnick@gmail.com">Doug Strasnick</a></p>
+                        </div>
+                </div>
+        </section>
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>9U - Black</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:davis.jesse@gmail.com">Jesse Davis</a></p>
                         </div>
                 </div>
         </section>
@@ -37,192 +45,191 @@ nav-menu: true
                                 <header class="major">
                                         <h3>10U</h3>
                                 </header>
-                                <p>Head Coach: <a href="mailto:jack.kuritzky@gmail.com">Jack Kuritzky</a></p>
-                                <!--
-                                <ul class="actions">
-                                        <li><a href="9u.html" class="button">Learn more</a></li>
-                                </ul>
-                                -->
+                                <p>Head Coach: <a href="mailto:greenunc@gmail.com">Dave Green</a></p>
                         </div>
                 </div>
         </section>
         <section>
                 <a href="#" class="image">
-                        <img src="assets/images/11u.jpg" alt="" data-position="top center" />
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>11U</h3>
+                                        <h3>10U - Softball</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:ericboyer7@gmail.com">Eric Boyer</a></p>
+                        </div>
+                </div>
+        </section>
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>11U - Orange</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:jack.kuritzky@gmail.com">Jack Kuritzky</a></p>
+                        </div>
+                </div>
+        </section>
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>11U - Black</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:cschmitty68@yahoo.com">Chris Schmitt</a></p>
+                        </div>
+                </div>
+        </section>
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>12U - Orange</h3>
                                 </header>
                                 <p>Head Coach: <a href="mailto:adevore@me.com">Adam DeVore</a></p>
-                                <!--
-                                <ul class="actions">
-                                        <li><a href="10u.html" class="button">Learn more</a></li>
-                                </ul>
-                                -->
+                        </div>
+                </div>
+        </section>
+        <section>
+                <a href="#" class="image">
+                        <img src="assets/images/missing.jpg" alt="" data-position="top center" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>12U - Black</h3>
+                                </header>
+                                <p>Head Coach: <a href="mailto:eric.sturkie@yahoo.com">Eric Sturkie</a></p>
                         </div>
                 </div>
         </section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/12u.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>12U</h3>
-				</header>
-                                <p>Head Coach: <a href="mailto:pjholmes99@gmail.com">Phil Holmes</a></p>
-                                <!--
-				<ul class="actions">
-					<li><a href="11u.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image">
-			<img src="assets/images/13u-orange.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/missing.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>13U - Orange</h3>
 				</header>
-				<p>Head Coach: <a href="mailto:jason@imagequalitylabs.com">Jason Cope</a></p>
-                                <!-- FIXME
-				<ul class="actions">
-					<li><a href="13u-orange.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
+                                <p>Head Coach: <a href="mailto:pjholmes99@gmail.com">Phil Holmes</a></p>
 			</div>
 		</div>
 	</section>
-        <section>
-                <a href="#" class="image">
-                        <img src="assets/images/13u-black.jpg" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>13U - Black</h3>
-                                </header>
-                                <p>Head Coach: <a href="mailto:ncsugerky@yahoo.com">Joe Gerding</a></p>
-                                <!-- FIXME
-                                <ul class="actions">
-                                        <li><a href="13u-black.html" class="button">Learn more</a></li>
-                                </ul>
-                                -->
-                        </div>
-                </div>
-        </section>
+    <section>
+        <a href="#" class="image">
+            <img src="assets/images/missing.jpg" alt="" data-position="top center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>13U - Black</h3>
+                </header>
+                                <p>Head Coach: <a href="mailto:kposey22@yahoo.com">Kevin Posey</a></p>
+            </div>
+        </div>
+    </section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/14u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/missing.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>14U</h3>
+					<h3>14U - Orange</h3>
+				</header>
+				<p>Head Coach: <a href="mailto:jason@imagequalitylabs.com">Jason Cope</a></p>
+			</div>
+		</div>
+	</section>
+    <section>
+        <a href="#" class="image">
+            <img src="assets/images/missing.jpg" alt="" data-position="25% 25%" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>14U - Black</h3>
+                </header>
+                <p>Head Coach: <a href="mailto:reilly1313@gmail.com">Jeff Reilly</a></p>
+                <p>Assistant Coach: <a href="mailto:aadowney@gmail.com@gmail.com">Aaron Downey</a></p>
+            </div>
+        </div>
+    </section>
+	<section>
+		<a href="#" class="image">
+			<img src="assets/images/missing.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>15U</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:stowe4077@gmail.com">Matt Stowe</a></p>
-                                <!-- FIXME
-				<ul class="actions">
-					<li><a href="13u.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/15u-orange.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/missing.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>15U - Orange</h3>
+					<h3>16U - Orange</h3>
 				</header>
 				<p>Head Coach: <a href="mailto:coynesmith@gmail.com">Tim Coynesmith</a></p>
-                                <!-- FIXME
-				<ul class="actions">
-					<li><a href="14u-orange.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
+                <p>Assistant Coach: <a href="mailto:ken@vandine.org">Ken VanDine</a></p>
 			</div>
 		</div>
 	</section>
-        <section>
-                <a href="#" class="image">
-                        <img src="assets/images/15u-black.jpg" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>15U - Black</h3>
-                                </header>
-                                <p>Head Coach: <a href="mailto:rduttonnc@gmail.com">Richard Dutton</a></p>
-                                <!-- FIXME
-                                <ul class="actions">
-                                        <li><a href="14u-black.html" class="button">Learn more</a></li>
-                                </ul>
-                                -->
-                        </div>
-                </div>
-        </section>
+    <section>
+        <a href="#" class="image">
+            <img src="assets/images/missing.jpg" alt="" data-position="25% 25%" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>16U - Black</h3>
+                </header>
+                <p>Head Coach: <a href="mailto:rduttonnc@gmail.com">Richard Dutton</a></p>
+            </div>
+        </div>
+    </section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/16u1.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>16U</h3>
-				</header>
-				<p>Head Coach: <a href="mailto:ben_davis@unc.edu">Ben Davis</a></p>
-                                <!-- FIXME
-				<ul class="actions">
-					<li><a href="15u.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="#" class="image">
-			<img src="assets/images/17u.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/missing.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>17U</h3>
 				</header>
-				<p>Head Coach: <a href="mailto:sharward73@gmail.com">Shannon Harward</a></p>
-                                <!-- FIXME
-				<ul class="actions">
-					<li><a href="16u.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
+				<p>Head Coach: <a href="mailto:ben_davis@unc.edu">Ben Davis</a></p>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/18u1.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/missing.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>18U</h3>
 				</header>
-				<p>Head Coach: <a href="mailto:mpr1020@yahoo.com">Mike Roberts</a></p>
-                                <!-- FIXME
-				<ul class="actions">
-					<li><a href="17u.html" class="button">Learn more</a></li>
-				</ul>
-                                -->
+				<p>Head Coach: <a href="mailto:bstaats@gmail.com">Brad Staats</a></p>
 			</div>
 		</div>
 	</section>
